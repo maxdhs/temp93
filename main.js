@@ -3,3 +3,5 @@ console.log(x);
 
 let y = 3
 console.log(y)
+
+let z = 1
